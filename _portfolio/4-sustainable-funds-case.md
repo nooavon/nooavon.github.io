@@ -1,5 +1,5 @@
 ---
-title: "Case: Choosing a Sustainable Fund for a Pension Institution"
+title: "Choosing a Sustainable Fund for a Pension Institution"
 excerpt: "Group case study. Do sustainable funds in the Finnish market deliver better returns, greener portfolios or clearer promises? Analyses 58 funds on size, capital flows, returns, ESG scores and marketing claims, and recommends one fund to a pension investor."
 collection: portfolio
 date: 2026-02-17 12:00:00 +0000
