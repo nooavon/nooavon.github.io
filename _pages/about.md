@@ -17,10 +17,4 @@ My bachelor's thesis, *Evaluating "Fair Chance" Employment* (2026, grade 5/5), s
 
 Projects
 ------
-I have also done various smaller projects around topics like data analysis and finance. See the [Projects](/projects/) page for details.
-
-Skills
-------
-- **Econometrics:** difference-in-differences, event studies, regression analysis
-- **Programming and tools:** Python (pandas, NumPy, scikit-learn), Stata, Jupyter, Git
-- **Languages:** Finnish (native), English (excellent), Swedish (conversational)
+I have also done various smaller projects around topics like data analysis, economics and finance. See the [Projects](/projects/) page for details.
