@@ -26,7 +26,7 @@ Education
 *Aug 2019 – Jun 2022*
 * Seven subjects, including Advanced Mathematics, Finnish, Swedish, English, History, Philosophy and Social Studies.
 
-Research and projects
+Academic projects
 ======
 **Bachelor's thesis in Economics: *Evaluating "Fair Chance" Employment*** (grade 5/5)<br>
 *Aalto University, May 2026 – Aug 2026*
@@ -34,14 +34,6 @@ Research and projects
 * Replicated a published difference-in-differences analysis in Stata using American Community Survey microdata, and extended the sample from 2004–2014 to 2004–2019.
 * Tested parallel trends with event studies and ran robustness checks on policy adoption, migration and the 2008–2009 recession.
 * [Replication package on GitHub](https://github.com/nooavon/Evaluating-Fair-Chance-Employment-Replication-Package)
-
-**Predicting a Heavy-Tailed Income Density** (Python)
-* Compared spline regression, k-nearest neighbours and gradient boosting on simulated income data to see how much data each needs to learn the top of the income distribution.
-* [Project page](/portfolio/2-heavy-tailed-income-density/)
-
-**Predicting the Time to Finish a Can of Beer** (Python)
-* Compared linear, regularised and robust regression models on a small dataset using leave-one-out cross-validation.
-* [Project page](/portfolio/3-beer-can-finish-time/)
 
 Experience
 ======
@@ -61,8 +53,8 @@ Experience
 
 Skills
 ======
-* **Data analysis:** Python (pandas, NumPy, scikit-learn), Stata, Jupyter, Git
-* **Econometrics:** difference-in-differences, event studies, regression and cross-validation
-* **Tools:** Microsoft Office, Adobe Creative Suite; uses current AI tools in research and analysis workflows
-* **Communication:** presenting economic analysis in academic and thesis settings to varied audiences
+* **Technical Proficiency:** Experience in various tools such as MS Office, Python (pandas, numpy), Stata, and Adobe Creative Suite for data analysis, reporting, and presentation design. Maintains current knowledge of emerging AI models from Google and Anthropic and applies them effectively within research and analytical workflows.
+* **Teamwork & Collaboration:** Collaborated closely with peers on group coursework, case studies, and joint projects throughout the Economics program. Also coordinated with bandmates and collaborators on live performances and music productions.
+* **Communication & Presentation:** Experience presenting economic analysis in academic and thesis settings. Skilled at breaking down complex topics into clear, structured presentations for varied audiences.
+* **Deadline Management:** Balanced full-time coursework, a bachelor's thesis, and freelance commitments simultaneously, consistently meeting overlapping academic and project deadlines.
 * **Languages:** Finnish (native), English (excellent), Swedish (conversational)

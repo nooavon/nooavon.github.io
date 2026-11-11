@@ -5,6 +5,7 @@ collection: portfolio
 date: 2026-10-02 12:00:00 +0000
 ---
 
+**Data Science for Business I course project, Aalto University, 2026 (grade 20/20)**<br>
 [View the code and report on GitHub](https://github.com/nooavon/Predicting-the-Time-to-Finish-a-Can-of-Beer-from-Cumulative-Consumption){: .btn .btn--primary}
 
 ## Question
@@ -13,17 +14,15 @@ Does it take longer to finish a can of beer as the evening goes on, and can the 
 
 ## Approach
 
-- A small dataset of 16 cans from two people on one evening, with the finish time in minutes, the can number, can size and who bought it.
+- A small dataset of 16 cans from two people on one evening.
 - Compared ordinary least squares, feature selection, Ridge and Lasso, and robust methods (Huber, median and Theil-Sen regression).
-- Evaluated every model with **leave-one-out cross-validation**, with all tuning and feature selection done inside each training fold so that the held-out can was never used.
+- Evaluated every model with **leave-one-out cross-validation**.
 
 ## Key findings
 
-- The can number is the most useful predictor. The other recorded features did not improve out-of-sample predictions.
-- Two unusually long finish times (235 and 174 minutes) have a large effect on ordinary least squares, which is why robust methods matter here.
-- The recommended model, **Theil-Sen regression** on can number alone, predicts about 6.9 more minutes per additional can, with a mean absolute error of 27.7 minutes.
+- The can number is the most useful predictor. The other recorded features resulted in overfitting due to how tiny the dataset was.
+- Two of the cans were outliers in terms of time to finish, which resulted in models that aren't resistant to outliers such as OLS to perform poorly.
+- The recommended model, **Theil-Sen regression** on can number alone, predicts about 6.9 more minutes per additional can.
 - The best models improve on simple baselines by roughly 16–22%.
-
-With only 16 observations, the results are exploratory. The project is mainly an exercise in careful model evaluation with very little data.
 
 *Tools: Python, pandas, scikit-learn, Jupyter.*

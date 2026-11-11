@@ -5,11 +5,12 @@ collection: portfolio
 date: 2026-10-11 12:00:00 +0000
 ---
 
+**Data Science for Business I course project, Aalto University, 2026 (grade 10/10)**<br>
 [View the code and report on GitHub](https://github.com/nooavon/Predicting-a-Heavy-Tailed-Income-Density){: .btn .btn--primary}
 
 ## Question
 
-Most people's incomes follow a fairly regular pattern, but a small group of very high earners creates a long "tail". How much data does a model need to learn that tail, and what breaks a model first?
+Most people's incomes follow a fairly regular pattern, but a small group of very high earners creates a long "tail". How much data does a model need to learn that tail?
 
 ## Approach
 

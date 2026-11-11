@@ -10,24 +10,23 @@ date: 2026-08-19 12:00:00 +0000
 
 ## Question
 
-Ban the Box (BTB) laws stop employers from asking about criminal records early in the hiring process. Earlier research found that these laws may have reduced employment for young Black and Hispanic men, because some employers may guess at criminal records based on race. Burton and Wasser (2025) revisited this finding. My thesis asks whether their results still hold when the sample is extended by five more years.
+Ban the Box (BTB) laws stop employers from asking about criminal records early in the hiring process. A worry among Economists has been whether this could result in Employers substituting the information with observable proxies such as race or gender and then discriminating certain demographics based on that. 
+Earlier research has found mixed results of this. My thesis builds on the work of Burton and Wasser (2025) by extending their analysis and comparing the findings against other more recent studies. 
 
 ## Data and method
 
 - Annual **American Community Survey (ACS)** microdata from IPUMS, 2004–2019.
-- Sample: U.S.-citizen men aged 25–34 without a bachelor's degree, split into non-Hispanic Black, Hispanic and non-Hispanic White groups.
+- Sample: U.S.-citizen men aged 25–34 without a bachelor's degree, split into Black, Hispanic and White groups.
 - **Difference-in-differences** design, with BTB treatment assigned at the metropolitan area level.
-- The sample ends in 2019 to avoid mixing the study period with the COVID-19 pandemic.
 
-## What I added
+## My contributions to Burton and Wasser (2025)
 
 - Reproduced the original 2004–2014 results, then extended the data to 2019 and updated the annual BTB law coding.
-- Event-study tests for pre-existing trends, and checks for sensitivity to the 2008–2009 recession.
-- Tests of whether pre-policy conditions predicted BTB adoption, whether BTB was linked to migration, and whether effects changed after 2014.
-- Goodman–Bacon decompositions for the staggered treatment timing.
+- Added more robust tests to validate the research methodology.
+- Compared the results to those that Kaestner and Wang (2024) got for the same 2004-2019 time horizon using Current Population Survey data.
 
 ## Result
 
-Across the three groups, the thesis finds **no robust employment effects** of Ban the Box. Some specifications produce statistically significant estimates, which the thesis interprets alongside the pre-trend diagnostics and multiple-testing concerns.
+Across the three groups, the thesis finds **no robust employment effects** of Ban the Box. The result aligns with Burton and Wasser (2025) and Kaestner and Wang (2024)
 
 *Tools: Stata. This is an independent extension of Burton and Wasser's study, not a release by the original authors.*
