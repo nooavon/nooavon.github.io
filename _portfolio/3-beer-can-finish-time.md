@@ -2,6 +2,7 @@
 title: "Predicting the Time to Finish a Can of Beer"
 excerpt: "Does each can take longer to finish as the evening goes on? A small-sample prediction exercise comparing linear, regularised and robust regression with leave-one-out cross-validation. Python."
 collection: portfolio
+date: 2026-10-02 12:00:00 +0000
 ---
 
 [View the code and report on GitHub](https://github.com/nooavon/Predicting-the-Time-to-Finish-a-Can-of-Beer-from-Cumulative-Consumption){: .btn .btn--primary}
