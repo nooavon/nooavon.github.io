@@ -2,7 +2,7 @@
 title: "Evaluating \"Fair Chance\" Employment: Ban the Box and Minority Employment"
 excerpt: "Bachelor's thesis (2026, grade 5/5). Replicates and extends a difference-in-differences study of Ban the Box laws using American Community Survey data, 2004–2019. Stata."
 collection: portfolio
-date: 2026-18-19 12:00:00 +0000
+date: 2026-08-19 12:00:00 +0000
 ---
 
 **Bachelor's thesis in Economics, Aalto University, 2026 (grade 5/5)**<br>
