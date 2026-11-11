@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Economics student at [Aalto University](https://www.aalto.fi/en) in Espoo, Finland. I am completing an Economics bachelor degree with graduation expected in early 2027, and have concurrently started Masters studies in Business Analytics.
+I'm an Economics student at [Aalto University](https://www.aalto.fi/en) in Espoo, Finland. I'm currently on the final stretch with my bachelor's degree in Economics, and have concurrently started taking the first master's-level courses in Business Analytics.
 
-I'm most enthusiastic about using data for explaining different phenomena or building predictive models. Explaining different phenomena with econometrical tools, building predictive models from 
-are in applied economics and data analytics: using econometric methods and real-world data to answer policy questions, and testing how well statistical and machine learning models hold up in practice.
+I'm most enthusiastic about using data for explaining different phenomena or building predictive models. Through my studies, I've built a solid toolkit for econometric and predictive analysis, alongside a strong foundation in microeconomics, macroeconomics, and finance.
 
 Research
 ------
