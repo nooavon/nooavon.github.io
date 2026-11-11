@@ -6,7 +6,8 @@ date: 2026-08-19 12:00:00 +0000
 ---
 
 **Bachelor's thesis in Economics, Aalto University, 2026 (grade 5/5)**<br>
-[View the code and thesis on GitHub](https://github.com/nooavon/Evaluating-Fair-Chance-Employment-Replication-Package){: .btn .btn--primary}
+[View the code on GitHub](https://github.com/nooavon/Evaluating-Fair-Chance-Employment-Replication-Package){: .btn .btn--primary}
+[Read the thesis](https://aaltodoc.aalto.fi/server/api/core/bitstreams/dcaf1d0e-bfb8-438e-aa66-01f0b5cb9bf2/content){: .btn .btn--primary}
 
 ## Question
 
