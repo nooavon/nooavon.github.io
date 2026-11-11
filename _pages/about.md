@@ -13,7 +13,7 @@ I'm most enthusiastic about using data for explaining different phenomena or bui
 
 Research
 ------
-My bachelor's thesis, [*Evaluating "Fair Chance" Employment*](https://aaltodoc.aalto.fi/items/804e1b9f-8731-41c7-ba2f-de07e0b5ff57) (2026, grade 5/5), studies whether Ban the Box laws affected the employment of young minority men in the United States. I replicated and extended a published difference-in-differences analysis using American Community Survey microdata and analyzed the results agaist other more recent studies. The full replication package is [on GitHub](https://github.com/nooavon/Evaluating-Fair-Chance-Employment-Replication-Package).
+My bachelor's thesis, [*Evaluating "Fair Chance" Employment*](https://aaltodoc.aalto.fi/items/804e1b9f-8731-41c7-ba2f-de07e0b5ff57) (2026, grade 5/5), studies whether Ban the Box laws affected the employment of young minority men in the United States. I replicated and extended a published difference-in-differences analysis using American Community Survey microdata and analyzed the results against other more recent studies. The full replication package is [on GitHub](https://github.com/nooavon/Evaluating-Fair-Chance-Employment-Replication-Package).
 
 Projects
 ------

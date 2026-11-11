@@ -53,7 +53,7 @@ Experience
 
 Skills
 ======
-* **Technical Proficiency:** Experience in various tools such as MS Office, Python (pandas, numpy), Stata, and Adobe Creative Suite for data analysis, reporting, and presentation design. Maintains current knowledge of emerging AI models from Google and Anthropic and applies them effectively within research and analytical workflows.
+* **Technical Proficiency:** Experience in various tools such as MS Office, Python (pandas, numpy, FastAPI), SQL (PostgreSQL), Docker, Stata, and Adobe Creative Suite for data analysis, reporting, and presentation design. Maintains current knowledge of emerging AI models from Google and Anthropic and applies them effectively within research and analytical workflows.
 * **Teamwork & Collaboration:** Collaborated closely with peers on group coursework, case studies, and joint projects throughout the Economics program. Also coordinated with bandmates and collaborators on live performances and music productions.
 * **Communication & Presentation:** Experience presenting economic analysis in academic and thesis settings. Skilled at breaking down complex topics into clear, structured presentations for varied audiences.
 * **Deadline Management:** Balanced full-time coursework, a bachelor's thesis, and freelance commitments simultaneously, consistently meeting overlapping academic and project deadlines.
