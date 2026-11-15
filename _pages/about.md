@@ -17,4 +17,7 @@ My bachelor's thesis, [*Evaluating "Fair Chance" Employment*](https://aaltodoc.a
 
 Projects
 ------
-I have also done various smaller projects around topics like data analysis, economics and finance. See the [Projects](/projects/) page for details.
+I have also done various smaller projects around topics like data analysis, economics and finance. See the [Projects](/projects/) page for all of them. Some examples include:
+
+- **[Predicting a Heavy-Tailed Income Density](/portfolio/2-heavy-tailed-income-density/)** (2026, grade 10/10): how much data does it take to learn the top of an income distribution? I compared spline regression, k-nearest neighbours and gradient boosting on simulated incomes in Python.
+- **[Study Tracker](/portfolio/6-study-tracker/)** (2026): a flashcard web app with decks, tags, a study mode and a progress dashboar. Built on a PostgreSQL database I designed from scratch.

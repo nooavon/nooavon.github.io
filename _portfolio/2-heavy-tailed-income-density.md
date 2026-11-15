@@ -25,6 +25,9 @@ Most people's incomes follow a fairly regular pattern, but a small group of very
 - **More data does not fix the wrong model.** Gradient boosting stays about 7 times off for incomes above €1M even with a million observations, because tree models cannot extrapolate. k-nearest neighbours keeps improving.
 - **Splines are the most robust with small or noisy data.** With 1,000 observations the spline is off by about 2.6 times in the far tail, compared with about 100 times for k-nearest neighbours.
 
+![Spline OLS, k-NN and gradient boosting fitted to a sample of 10,000 simulated incomes](/images/income-density-models.png)
+*The three models fitted to one sample of 10,000 observations, compared with the true density. Left: linear scale, where all models track the bulk of the distribution. Right: log-log scale, where the models diverge in the tail.*
+
 Far-tail error (incomes €1M–€10M; 1.0 = perfect), median of 10 runs:
 
 | Model             | n = 1,000 | n = 10,000 | n = 100,000 | n = 1,000,000 |

@@ -25,4 +25,7 @@ Does it take longer to finish a can of beer as the evening goes on, and can the 
 - The recommended model, **Theil-Sen regression** on can number alone, predicts about 6.9 more minutes per additional can.
 - The best models improve on simple baselines by roughly 16–22%.
 
+![Theil-Sen regression of time to finish on cumulative can number](/images/beer-can-theil-sen.png)
+*The final Theil-Sen model fitted on all 16 cans (6.9 minutes per additional can). Colours mark the two people and squares mark the larger cans. The two outliers above the line barely move the fit.*
+
 *Tools: Python, pandas, scikit-learn, Jupyter.*
