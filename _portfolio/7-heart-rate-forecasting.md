@@ -1,6 +1,6 @@
 ---
 title: "Forecasting Heart Rate in a Run"
-excerpt: "Can running power help predict where your heart rate is heading? Forecasts heart rate 1–120 seconds ahead during an 88-minute run, comparing naïve baselines, AR and ARX models, and a physiological state-space model fitted with a Kalman filter. Python."
+excerpt: "Can running power help predict where your heart rate is heading? Forecasts heart rate 1–120 seconds ahead during an 88-minute run, comparing naïve baselines, AR and ARX models, and a state-space model fitted with a Kalman filter. Python."
 collection: portfolio
 date: 2026-11-16 12:00:00 +0000
 ---
