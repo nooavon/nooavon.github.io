@@ -4,6 +4,8 @@ excerpt: "Does each can take longer to finish as the evening goes on? A small-sa
 collection: portfolio
 date: 2026-10-02 12:00:00 +0000
 order: 6
+header:
+  og_image: "og/beer-can.png"
 ---
 
 **Data Science for Business I course project, Aalto University, 2026 (grade 20/20)**<br>

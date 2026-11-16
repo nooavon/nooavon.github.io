@@ -4,6 +4,8 @@ excerpt: "Can running power help predict where your heart rate is heading? Forec
 collection: portfolio
 date: 2026-11-16 12:00:00 +0000
 order: 2
+header:
+  og_image: "og/heart-rate.png"
 ---
 
 **Forecasting Methods in Business Analytics course project, Aalto University, 2026**<br>

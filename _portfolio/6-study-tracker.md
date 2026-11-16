@@ -4,6 +4,8 @@ excerpt: "A flashcard app with decks, tags, a study mode and a progress dashboar
 collection: portfolio
 date: 2026-06-26 12:00:00 +0000
 order: 4
+header:
+  og_image: "og/study-tracker.png"
 ---
 
 **Databases for Data Science course project, Aalto University, 2026**<br>

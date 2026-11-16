@@ -4,6 +4,8 @@ excerpt: "Group case study. Do sustainable funds in the Finnish market deliver b
 collection: portfolio
 date: 2026-02-17 12:00:00 +0000
 order: 5
+header:
+  og_image: "og/sustainable-funds.png"
 ---
 
 **Fundamentals of Financial Markets and Institutions course case, Aalto University, 2026 (grade 28/30)**<br>

@@ -4,6 +4,8 @@ excerpt: "Essay. Patents reward innovation by creating temporary monopolies, whi
 collection: portfolio
 date: 2024-04-18 12:00:00 +0000
 order: 7
+header:
+  og_image: "og/patents.png"
 ---
 
 **Economics of Global Challenges course project, Aalto University, 2024**<br>

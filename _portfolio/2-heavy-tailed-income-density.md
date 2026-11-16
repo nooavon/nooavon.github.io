@@ -4,6 +4,8 @@ excerpt: "How much data does it take to learn the top of an income distribution?
 collection: portfolio
 date: 2026-10-11 12:00:00 +0000
 order: 3
+header:
+  og_image: "og/income-density.png"
 ---
 
 **Data Science for Business I course project, Aalto University, 2026 (grade 10/10)**<br>
