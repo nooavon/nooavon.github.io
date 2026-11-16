@@ -11,7 +11,7 @@ redirect_from:
 
 Selected research and data analysis projects. Each project page either contains a github link for replication or a final report when coding hasn't been involved.
 
-{% assign projects = site.portfolio | sort: "date" | reverse %}
+{% assign projects = site.portfolio | sort: "order" %}
 {% for post in projects %}
   {% include archive-single.html %}
 {% endfor %}

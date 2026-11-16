@@ -3,6 +3,7 @@ title: "Predicting the Time to Finish a Can of Beer"
 excerpt: "Does each can take longer to finish as the evening goes on? A small-sample prediction exercise comparing linear, regularised and robust regression with leave-one-out cross-validation. Python."
 collection: portfolio
 date: 2026-10-02 12:00:00 +0000
+order: 6
 ---
 
 **Data Science for Business I course project, Aalto University, 2026 (grade 20/20)**<br>
@@ -27,5 +28,9 @@ Does it take longer to finish a can of beer as the evening goes on, and can the 
 
 ![Theil-Sen regression of time to finish on cumulative can number](/images/beer-can-theil-sen.png)
 *The final Theil-Sen model fitted on all 16 cans (6.9 minutes per additional can). Colours mark the two people and squares mark the larger cans. The two outliers above the line barely move the fit.*
+
+## Why it matters
+
+Real datasets are often small and messy. The project shows how to avoid overfitting with very few observations, and why a robust method can beat ordinary least squares when a couple of outliers would otherwise drive the result.
 
 *Tools: Python, pandas, scikit-learn, Jupyter.*

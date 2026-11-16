@@ -3,6 +3,7 @@ title: "A Brief Look at the Effects of Patents in Pharmaceutics"
 excerpt: "Essay. Patents reward innovation by creating temporary monopolies, which hurts most where the product is medicine. Weighs weaker patents and prize systems as alternatives for drug development."
 collection: portfolio
 date: 2024-04-18 12:00:00 +0000
+order: 7
 ---
 
 **Economics of Global Challenges course project, Aalto University, 2024**<br>
@@ -24,3 +25,7 @@ Patents encourage innovation by granting a temporary monopoly. In pharmaceutical
 - **Today's patents are probably too strong.** Patent policy is shaped mostly by those who benefit from it (Boldrin and Levine, 2013). Giving up a little innovation for much wider access could leave society better off.
 - **Prizes could beat monopolies.** In India, patents on one drug family caused an estimated $300 million welfare loss against a $20 million private gain (Chaudhuri, Goldberg and Jia, 2006). Paying innovators any amount in between could leave both sides better off, as proposed by Kremer and Williams (2009).
 - **A mix may work best.** Treatments judged essential could be bought out through prizes and made public, while patents remain for less critical innovations.
+
+## Why it matters
+
+Patent policy decides both how many new medicines get developed and who can afford them. The essay lays out that trade-off clearly enough to compare concrete policy alternatives.

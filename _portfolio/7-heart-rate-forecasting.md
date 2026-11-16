@@ -3,6 +3,7 @@ title: "Forecasting Heart Rate in a Run"
 excerpt: "Can running power help predict where your heart rate is heading? Forecasts heart rate 1–120 seconds ahead during an 88-minute run, comparing naïve baselines, AR and ARX models, and a state-space model fitted with a Kalman filter. Python."
 collection: portfolio
 date: 2026-11-16 12:00:00 +0000
+order: 2
 ---
 
 **Forecasting Methods in Business Analytics course project, Aalto University, 2026**<br>
@@ -34,5 +35,9 @@ Does knowing a runner's power output help forecast where their heart rate is hea
 *Left: RMSE reduction relative to the naïve forecast for the AR and ARX models. Right: the extra gain from adding running power (ARX vs AR). Shaded areas are 95% block-bootstrap bands.*
 
 All results come from one run by one person, and some model variants were chosen after looking at test errors, so the findings are a case study rather than a general result.
+
+## Why it matters
+
+A naïve forecast is often hard to beat, so a more complex model has to earn its place. The project shows how to measure that honestly with fully out-of-sample tests, and how to find where extra information (here, running power) actually adds value. The same approach applies to forecasting demand, prices or workloads.
 
 *Tools: Python, NumPy, pandas, statsmodels, Jupyter.*

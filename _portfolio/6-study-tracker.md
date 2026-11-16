@@ -3,6 +3,7 @@ title: "Study Tracker: A Flashcard Web App on PostgreSQL"
 excerpt: "A flashcard app with decks, tags, a study mode and a progress dashboard, built on a relational database designed from scratch. Python (FastAPI), PostgreSQL, Docker."
 collection: portfolio
 date: 2026-06-26 12:00:00 +0000
+order: 4
 ---
 
 **Databases for Data Science course project, Aalto University, 2026**<br>
@@ -27,5 +28,9 @@ Build a working web app on top of a relational database, and document the data m
 - Rules are enforced in the database itself: unique deck names, ratings limited to 1–5 with a `CHECK` constraint, and cascading deletes so removing a card also removes its reviews.
 - All queries are hand-written, parameterised SQL with no ORM, including joins and aggregates for the dashboard, plus indexes on the main foreign keys.
 - The [design documents](https://github.com/nooavon/study-tracker/tree/main/design) include an ER diagram, a reading of the domain, and a rationale. They separate what the app does now from what a production version would still need, such as user accounts, access control and data retention rules.
+
+## Why it matters
+
+Most analysis work starts from a database someone else designed. Building one from scratch, with rules enforced in the schema and hand-written SQL, shows that I can model data properly and query it directly instead of relying on ready-made spreadsheets.
 
 *Tools: Python, FastAPI, Jinja2, PostgreSQL, psycopg 3, Docker Compose.*

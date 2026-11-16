@@ -29,11 +29,21 @@ Education
 Academic projects
 ======
 **Bachelor's thesis in Economics: *Evaluating "Fair Chance" Employment*** (grade 5/5)<br>
-*Aalto University, May 2026 – Aug 2026*
+*Aalto University | Stata | May 2026 – Aug 2026*
 * Evaluated the effect of Ban the Box laws on the employment of young Black, Hispanic and White men in the United States.
 * Replicated a published difference-in-differences analysis in Stata using American Community Survey microdata, and extended the sample from 2004–2014 to 2004–2019.
 * Tested parallel trends with event studies and ran robustness checks on policy adoption, migration and the 2008–2009 recession.
 * [Replication package on GitHub](https://github.com/nooavon/Evaluating-Fair-Chance-Employment-Replication-Package)
+
+**[Forecasting Heart Rate in a Run](/portfolio/7-heart-rate-forecasting/)**<br>
+*Aalto University | Python | Nov 2026*
+* Forecast heart rate 1–120 seconds ahead with naïve, AR/ARX and Kalman-filter state-space models in Python.
+* Evaluated every model fully out of sample with a rolling origin, Diebold–Mariano tests and a moving-block bootstrap. The best model beat the naïve forecast by 4–9% at short horizons.
+
+**[Predicting a Heavy-Tailed Income Density](/portfolio/2-heavy-tailed-income-density/)** (grade 10/10)<br>
+*Aalto University | Python | Oct 2026*
+* Compared spline regression, k-nearest neighbours and gradient boosting on simulated incomes, with samples from 1,000 to 1,000,000 observations, in Python.
+* Tree models failed to extrapolate into the far tail even with a million observations; splines were the most robust with small samples.
 
 Experience
 ======
@@ -53,8 +63,7 @@ Experience
 
 Skills
 ======
-* **Technical Proficiency:** Experience in various tools such as MS Office, Python (pandas, numpy, FastAPI), SQL (PostgreSQL), Docker, Stata, and Adobe Creative Suite for data analysis, reporting, and presentation design. Maintains current knowledge of emerging AI models from Google and Anthropic and applies them effectively within research and analytical workflows.
-* **Teamwork & Collaboration:** Collaborated closely with peers on group coursework, case studies, and joint projects throughout the Economics program. Also coordinated with bandmates and collaborators on live performances and music productions.
-* **Communication & Presentation:** Experience presenting economic analysis in academic and thesis settings. Skilled at breaking down complex topics into clear, structured presentations for varied audiences.
-* **Deadline Management:** Balanced full-time coursework, a bachelor's thesis, and freelance commitments simultaneously, consistently meeting overlapping academic and project deadlines.
+* **Data & Programming:** Python (pandas, NumPy, scikit-learn, FastAPI), SQL (PostgreSQL), Stata, Docker, Git/GitHub, MS Office (Excel, PowerPoint), Adobe Creative Suite.
+* **Methods:** Econometrics (difference-in-differences, event studies), time-series forecasting (AR/ARX, state-space models, Kalman filter), regularised and robust regression, machine learning (gradient boosting, k-NN), out-of-sample validation.
+* **Teamwork & Communication:** Group case studies and presentations, e.g. a four-person [sustainable fund analysis](/portfolio/4-sustainable-funds-case/) for a pension investor (grade 28/30). Combined full-time studies, a bachelor's thesis and freelance work on overlapping deadlines.
 * **Languages:** Finnish (native), English (excellent), Swedish (conversational)

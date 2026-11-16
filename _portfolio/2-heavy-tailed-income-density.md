@@ -3,6 +3,7 @@ title: "Predicting a Heavy-Tailed Income Density"
 excerpt: "How much data does it take to learn the top of an income distribution? Compares spline regression, k-nearest neighbours and gradient boosting on simulated incomes. Python."
 collection: portfolio
 date: 2026-10-11 12:00:00 +0000
+order: 3
 ---
 
 **Data Science for Business I course project, Aalto University, 2026 (grade 10/10)**<br>
@@ -35,5 +36,9 @@ Far-tail error (incomes €1M–€10M; 1.0 = perfect), median of 10 runs:
 | Spline OLS        |      2.64 |       1.40 |        1.39 |          1.38 |
 | k-NN              |    103.64 |       3.51 |        1.14 |          1.02 |
 | Gradient boosting |    231.92 |       6.31 |        7.06 |          7.12 |
+
+## Why it matters
+
+Many business and policy questions depend on the extremes rather than the average: top earners for tax revenue, large claims for insurers, big losses for risk management. The project shows that more data does not fix a model that cannot extrapolate, so model choice matters most exactly where the stakes are highest.
 
 *Tools: Python, NumPy, pandas, scikit-learn, Jupyter.*

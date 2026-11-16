@@ -3,6 +3,7 @@ title: "Evaluating \"Fair Chance\" Employment: Ban the Box and Minority Employme
 excerpt: "Bachelor's thesis (2026, grade 5/5). Replicates and extends a difference-in-differences study of Ban the Box laws using American Community Survey data, 2004–2019. Stata."
 collection: portfolio
 date: 2026-08-19 12:00:00 +0000
+order: 1
 ---
 
 **Bachelor's thesis in Economics, Aalto University, 2026 (grade 5/5)**<br>
@@ -29,5 +30,9 @@ Earlier research has found mixed results of this. My thesis builds on the work o
 ## Result
 
 Across the three groups, the thesis finds **no robust employment effects** of Ban the Box. The result aligns with Burton and Wasser (2025) and Kaestner and Wang (2024)
+
+## Why it matters
+
+Policies are often debated on intuition about how people and firms will react. This project shows how to test such a claim with data: replicate an existing study, check whether its assumptions hold, and see whether the result survives a longer time window and alternative specifications. The same workflow applies to evaluating any policy or business intervention.
 
 *Tools: Stata. This is an independent extension of Burton and Wasser's study, not a release by the original authors.*

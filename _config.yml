@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Nooa von Schöneman"
 title_separator          : "-"
 name                     : &name "Nooa von Schöneman"
-description              : &description "Nooa von Schöneman's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Portfolio of Nooa von Schöneman, Economics and Business Analytics student at Aalto University: econometrics, forecasting and data analysis projects."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://nooavon.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : # "profile.png"
   name             : "Nooa von Schöneman"
   pronouns         : # example: "she/her"  
-  bio              : "An Economics student at Aalto University. Interested in applied economics and data analytics."
+  bio              : "Economics & Business Analytics student at Aalto University. Econometrics, forecasting and data analysis. Seeking a summer 2027 traineeship."
   location         : "Espoo, Finland"
   employer         : # "Red Brick University"
   uri              : # URL

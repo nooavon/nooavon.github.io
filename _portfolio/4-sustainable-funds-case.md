@@ -3,6 +3,7 @@ title: "Choosing a Sustainable Fund for a Pension Institution"
 excerpt: "Group case study. Do sustainable funds in the Finnish market deliver better returns, greener portfolios or clearer promises? Analyses 58 funds on size, capital flows, returns, ESG scores and marketing claims, and recommends one fund to a pension investor."
 collection: portfolio
 date: 2026-02-17 12:00:00 +0000
+order: 5
 ---
 
 **Fundamentals of Financial Markets and Institutions course case, Aalto University, 2026 (grade 28/30)**<br>
@@ -30,3 +31,7 @@ A (fictional) pension institution wants to invest in a sustainable fund. Which f
 - **No lasting return advantage.** Over 10 years, sustainable and other funds returned within 0.2 percentage points of each other per year, and sustainable funds had lower risk-adjusted returns. This fits van der Beck's view that ESG outperformance comes from inflows and fades when they stop.
 - **"Sustainable" is only slightly greener.** Sustainable funds score only 0.22 points higher on ESG on a size-weighted basis (7.22 vs 7.00), and 6 of 31 conventional funds beat the sustainable median.
 - **Recommendation: OP Climate A.** It returned 16.2% a year over five years (4.3 percentage points above the sustainable-fund average), is large enough for a pension investor, had net inflows in a year of outflows, and scored highest on our marketing-transparency rubric.
+
+## Why it matters
+
+Sustainability labels steer billions of euros of investment. The case shows how to check a label against the numbers (returns, flows and ESG scores) before committing a long-term investor's money, instead of relying on marketing claims.
