@@ -19,4 +19,4 @@ Selected work
 - **[Forecasting Heart Rate in a Run](/portfolio/7-heart-rate-forecasting/)** (2026): can running power help predict where heart rate is heading? I compared naïve, AR/ARX and Kalman-filter state-space forecasts 1–120 seconds ahead, evaluated fully out of sample in Python.
 - **[Predicting a Heavy-Tailed Income Density](/portfolio/2-heavy-tailed-income-density/)** (2026, grade 10/10): how much data does it take to learn the top of an income distribution? I compared spline regression, k-nearest neighbours and gradient boosting on simulated incomes in Python.
 
-Other projects include a flashcard web app built on a PostgreSQL database I designed from scratch, a sustainable fund case study for a pension investor, and a small-sample regression exercise. See the [Projects](/projects/) page for all of them.
+Other projects include a flashcard web app built on a PostgreSQL database I designed from scratch and a sustainable fund case study for a pension investor. See the [Projects](/projects/) page for all of them.
